@@ -22,7 +22,7 @@ Also actively contribute to open-source projects.
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lang-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![]['def']
 ![](https://img.shields.io/badge/Lang-C%23-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
@@ -37,3 +37,6 @@ Also actively contribute to open-source projects.
 <br>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+
+
+[def]: https://img.shields.io/badge/Lang-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a
